@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Sporting Goods",
+    "price": "$49.99",
+    "stocked": true,
+    "name": "Football"
+  },
+  {
+    "category": "Sporting Goods",
+    "price": "$9.99",
+    "stocked": true,
+    "name": "Baseball"
+  },
+  {
+    "category": "Stationary",
+    "price": "$3.99",
+    "stocked": true,
+    "name": "Notebook"
+  },
+  {
+    "category": "Sporting Goods",
+    "price": "$29.99",
+    "stocked": false,
+    "name": "Basketball"
+  },
+  {
+    "category": "Electronics",
+    "price": "$99.99",
+    "stocked": true,
+    "name": "iPod Touch"
+  },
+  {
+    "category": "Electronics",
+    "price": "$399.99",
+    "stocked": false,
+    "name": "iPhone 5"
+  },
+  {
+    "category": "Electronics",
+    "price": "$199.99",
+    "stocked": true,
+    "name": "Nexus 7"
+  },
+  {
+    "category": "Sporting Goods",
+    "price": "$19.99",
+    "stocked": true,
+    "name": "Cricket"
+  },
+  {
+    "category": "Stationary",
+    "price": "$1.99",
+    "stocked": false,
+    "name": "Gel pen"
+  },
+  {
+    "category": "Stationary",
+    "price": "$10.99",
+    "stocked": true,
+    "name": "Color Kit"
+  }
+]
