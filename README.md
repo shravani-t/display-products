@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+The application is built after refering to the docs from [React JS Documentation](https://reactjs.org/docs/thinking-in-react.html).
+
+Apart from the given instructions I have made a few enhancements to the application. They are,
+
+1. Included CSS Styles to the front end view.
+2. The search functionality of the application provided in the document is case sensity, I have enhanced the code to make a search irrespective of the search        text case.
+3. The data provided for the application in the document is in an order, the json array is provided in such a way that all the objects related to a specific        category are placed sequentially. I have considered a scenario where the json array is jumbled and the objects are present in an order irrespective of their      category.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
